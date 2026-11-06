@@ -1,0 +1,4 @@
+﻿scenario,year_of_population,population_ufa_and_district,assumed_target_age_share,assumed_annual_home_purchase_interest_share,assumed_ready_home_preference_share,assumed_website_reach_share,TAM_people_model,SAM_people_model,SOM_people_model,data_type,population_source_id,assumptions_source_id
+Осторожный,2025,1309873,0.65,0.007,0.35,0.02,5960,2086,42,сценарная_модель,R3,M2
+Базовый,2025,1309873,0.7,0.015,0.45,0.04,13754,6189,248,сценарная_модель,R3,M2
+Оптимистичный,2025,1309873,0.75,0.03,0.55,0.07,29472,16210,1135,сценарная_модель,R3,M2

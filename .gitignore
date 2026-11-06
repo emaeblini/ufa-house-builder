@@ -1,0 +1,24 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# PyCharm
+.idea/
+
+# Node.js
+node_modules/
+dist/
+build/
+.next/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# System
+.DS_Store
+Thumbs.db
